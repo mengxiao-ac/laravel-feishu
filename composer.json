@@ -1,5 +1,5 @@
 {
-  "name": "mayunfeng/laravel-feishu",
+  "name": "mengxiao-ac/laravel-feishu",
   "description": "飞书 SDK for Laravel",
   "keywords": [
     "laravel",
@@ -36,6 +36,6 @@
     }
   },
   "require": {
-    "mayunfeng/easy-feishu": "^1.0"
+    "mengxiao-ac/easy-feishu": "^1.0"
   }
 }
