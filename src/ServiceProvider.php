@@ -1,6 +1,6 @@
 <?php
 
-namespace Mayunfeng\LaravelFeishu;
+namespace MengxiaoAc\LaravelFeishu;
 
 use EasyFeishu\Foundation\Application as OpenPlatform;
 use Illuminate\Foundation\Application as LaravelApplication;

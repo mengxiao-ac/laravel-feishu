@@ -1,6 +1,6 @@
 <?php
 
-namespace Mayunfeng\LaravelFeishu;
+namespace MengxiaoAc\LaravelFeishu;
 
 use Illuminate\Support\Facades\Facade;
 
