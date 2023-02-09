@@ -28,7 +28,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Mayunfeng\\LaravelFeishu\\ServiceProvider"
+        "MengxiaoAc\\LaravelFeishu\\ServiceProvider"
       ],
       "aliases": {
         "LaravelFeishu": "EasyFeishu"
